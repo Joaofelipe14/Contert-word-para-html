@@ -1,7 +1,5 @@
 ﻿
 ```markdown
-
-
 ## Instalação
 
 Certifique-se de ter o [Node.js](https://nodejs.org/) instalado antes de prosseguir.
@@ -9,10 +7,9 @@ Certifique-se de ter o [Node.js](https://nodejs.org/) instalado antes de prosseg
 1. **Clone o repositório:**
 
     ```bash
-    git clone https://github.com/seu-usuario/seu-projeto.git
+    git clone https://github.com//Joaofelipe14/Contert-word-para-html.git
     cd seu-projeto
     ```
-
 2. **Instale as dependências:**
 
     ```bash
@@ -20,8 +17,6 @@ Certifique-se de ter o [Node.js](https://nodejs.org/) instalado antes de prosseg
     ```
 
 ## Uso
-
-Explique como usar seu aplicativo ou biblioteca. Forneça exemplos de código e casos de uso.
 
 ```bash
 npm start
@@ -37,15 +32,9 @@ Explique qualquer configuração adicional necessária, como variáveis de ambie
 PORT=3000
 ```
 
-## Contribuição
-
-Se você quiser contribuir, abra uma [issue](https://github.com/seu-usuario/seu-projeto/issues) ou envie um [pull request](https://github.com/seu-usuario/seu-projeto/pulls).
-
 ## Licença
-
 Este projeto é licenciado sob a [Licença MIT](LICENSE).
 
 ---
-
 © 2023 João Felipe. Todos os direitos reservados.
 ```
